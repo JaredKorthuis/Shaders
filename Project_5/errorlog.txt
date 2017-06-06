@@ -1,0 +1,15 @@
+
+WARNING: 0:33: 'texture2D' : function is deprecated in current GLSL version 
+WARNING: 0:56: 'texture2D' : function is deprecated in current GLSL version 
+WARNING: 0:57: 'texture2D' : function is deprecated in current GLSL version 
+WARNING: 0:58: 'texture2D' : function is deprecated in current GLSL version 
+WARNING: 0:59: 'texture2D' : function is deprecated in current GLSL version 
+WARNING: 0:60: 'texture2D' : function is deprecated in current GLSL version 
+WARNING: 0:61: 'texture2D' : function is deprecated in current GLSL version 
+WARNING: 0:62: 'texture2D' : function is deprecated in current GLSL version 
+WARNING: 0:63: 'texture2D' : function is deprecated in current GLSL version 
+WARNING: 0:64: 'texture2D' : function is deprecated in current GLSL version 
+ERROR: 0:76: 'irgb' : undeclared identifier 
+ERROR: 0:76: 'constructor' : not enough data provided for construction 
+
+
